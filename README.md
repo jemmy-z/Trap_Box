@@ -1,7 +1,9 @@
 # Trap_Box
 
 Project: Trap_Box
+
 Version: 1.0
+
 Creator: Jemmy Zhou
 
 Running instructions: Trap_Box.exe Trap_Box.cfg
